@@ -1,0 +1,39 @@
+# Temp Files
+._*
+
+# Mac Files
+.DS_Store
+
+# IDE Files
+/.idea
+/.vscode
+/.vs
+
+# Other Files and Directories
+dist
+node_modules
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+**/[Ll]og/
+**/[Ll]ogs/
+**/log-*.txt
